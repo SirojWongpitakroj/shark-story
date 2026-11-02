@@ -4,7 +4,7 @@
   const previous=document.getElementById('scene-previous'),next=document.getElementById('scene-next');
   const position=document.getElementById('scene-position'),announcement=document.getElementById('page-announcement');
   const progress=document.querySelector('.depth-progress'),motion=matchMedia('(prefers-reduced-motion: reduce)');
-  const aliases={top:'hero/1',story:'surface/1',data:'about-data/1',about:'sources/1','conclusion/1':'resurface/1'};
+  const aliases={top:'hero/1',story:'surface/1',data:'about-data/1',about:'sources/1','conclusion/1':'resurface/1','surface/4':'surface/3','unidentified/6':'unidentified/5'};
   let active=0,animation=null,lastWheel=-Infinity,touch=null,scrollFrame=null;
   const top=page=>{let y=0;for(let el=page;el;el=el.offsetParent)y+=el.offsetTop;return y;};
   const dialogOpen=()=>Boolean(document.querySelector('dialog[open]'));

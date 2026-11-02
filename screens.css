@@ -7,9 +7,13 @@ html.is-travelling{scroll-snap-type:none}
 .page-figure .page-content{height:100%;display:flex;align-items:center;justify-content:center}
 .page-figure .viz,.page-figure .interactive-map{max-width:100%;max-height:100%}
 .chapter-lead{font-size:clamp(18px,1.8vw,22px);line-height:1.55;color:var(--muted);margin:0 0 26px}
+.page-topic .eyebrow{font-size:clamp(18px,2vw,26px);line-height:1.2;letter-spacing:.06em;text-transform:none;margin-bottom:24px}
 .page-context .statement-content h2{font-size:clamp(2rem,min(4.7vw,6.5dvh),4rem)}
 .page-context .explanation{font-size:clamp(18px,1.6vw,21px);margin-top:24px}
 .page-emphasis .statement-content h2{font-size:clamp(3rem,min(8vw,10dvh),7rem)}
+.page-followup .statement-content h2{font-size:clamp(20px,2.2vw,28px);font-weight:400;line-height:1.4;letter-spacing:-.015em;color:var(--muted)}
+.followup-question{font-size:clamp(2.6rem,min(5.5vw,8dvh),5.5rem);font-weight:550;line-height:1.15;letter-spacing:-.035em;margin:26px 0 0;padding:.1em .06em .2em;text-wrap:balance}
+@media(max-height:560px){.page-followup .statement-content h2{font-size:clamp(16px,3.8dvh,20px)}.followup-question{font-size:clamp(1.8rem,7dvh,3rem);margin-top:18px}}
 .explanation-content{width:min(650px,100%);margin:auto}.explanation-content p{font-size:clamp(20px,2.2vw,28px);line-height:1.5;color:var(--muted);margin:0}
 .page-closing h2{color:var(--accent)}
 .viz{width:min(1300px,92vw);height:min(76dvh,780px);margin:0;display:flex;flex-direction:column;gap:22px}
