@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-label="Missing Information Is Not Evenly Distributed">
+<rect x="0" y="0" width="1600" height="900" fill="#031722"/>
+<text x="80" y="48" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="700" dominant-baseline="hanging" text-anchor="start">Missing Information Is Not Evenly Distributed</text>
+<text x="80" y="105" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="400" dominant-baseline="hanging" text-anchor="start">Percentage of incidents with missing or unusable victim age, by incident type</text>
+<text x="80" y="788" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" dominant-baseline="hanging" text-anchor="start">Incident types with fewer than 30 records excluded. Percentages describe completeness, not cause.</text>
+<text x="80" y="828" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="400" dominant-baseline="hanging" text-anchor="start">Source: Global Shark Attacks dataset, Kaggle. Visualization based on reported incidents.</text>
+<text x="80" y="177" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" dominant-baseline="hanging" text-anchor="start">Incident type</text>
+<line x1="405" y1="225" x2="405" y2="705" stroke="#173746" stroke-width="1"/>
+<text x="405" y="722" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" dominant-baseline="hanging" text-anchor="middle">0.0%</text>
+<line x1="614" y1="225" x2="614" y2="705" stroke="#173746" stroke-width="1"/>
+<text x="614" y="722" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" dominant-baseline="hanging" text-anchor="middle">20.0%</text>
+<line x1="823" y1="225" x2="823" y2="705" stroke="#173746" stroke-width="1"/>
+<text x="823" y="722" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" dominant-baseline="hanging" text-anchor="middle">40.0%</text>
+<line x1="1032" y1="225" x2="1032" y2="705" stroke="#173746" stroke-width="1"/>
+<text x="1032" y="722" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" dominant-baseline="hanging" text-anchor="middle">60.0%</text>
+<line x1="1241" y1="225" x2="1241" y2="705" stroke="#173746" stroke-width="1"/>
+<text x="1241" y="722" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" dominant-baseline="hanging" text-anchor="middle">80.0%</text>
+<line x1="1450" y1="225" x2="1450" y2="705" stroke="#173746" stroke-width="1"/>
+<text x="1450" y="722" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" dominant-baseline="hanging" text-anchor="middle">100.0%</text>
+<text x="385" y="261" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="400" dominant-baseline="hanging" text-anchor="end">Boating</text>
+<rect x="405" y="253.5" width="930.26706231454" height="39" fill="#8da4af"/>
+<text x="1347.26706231454" y="261" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" dominant-baseline="hanging" text-anchor="start">89.0% (n=337)</text>
+<text x="385" y="357" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="400" dominant-baseline="hanging" text-anchor="end">Sea Disaster</text>
+<rect x="405" y="349.5" width="860.323275862069" height="39" fill="#8da4af"/>
+<text x="1277.3232758620688" y="357" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" dominant-baseline="hanging" text-anchor="start">82.3% (n=232)</text>
+<text x="385" y="453" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="400" dominant-baseline="hanging" text-anchor="end">Invalid / Questionable</text>
+<rect x="405" y="445.5" width="607.3339483394834" height="39" fill="#8da4af"/>
+<text x="1024.3339483394834" y="453" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" dominant-baseline="hanging" text-anchor="start">58.1% (n=542)</text>
+<text x="385" y="549" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="400" dominant-baseline="hanging" text-anchor="end">Provoked</text>
+<rect x="405" y="541.5" width="544.6554770318022" height="39" fill="#8da4af"/>
+<text x="961.6554770318022" y="549" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" dominant-baseline="hanging" text-anchor="start">52.1% (n=566)</text>
+<text x="385" y="645" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="400" dominant-baseline="hanging" text-anchor="end">Unprovoked</text>
+<rect x="405" y="637.5" width="390.9352517985612" height="39" fill="#8da4af"/>
+<text x="807.9352517985612" y="645" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" dominant-baseline="hanging" text-anchor="start">37.4% (n=4,448)</text>
+<text x="927.5" y="754" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" dominant-baseline="hanging" text-anchor="middle">Records with missing/unusable age (%)</text>
+</svg>

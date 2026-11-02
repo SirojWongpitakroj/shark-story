@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-label="What Were People Doing When Encounters Occurred?">
+<rect x="0" y="0" width="1600" height="900" fill="#031722"/>
+<text x="80" y="48" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="700" dominant-baseline="hanging" text-anchor="start">What Were People Doing When Encounters Occurred?</text>
+<text x="80" y="105" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="400" dominant-baseline="hanging" text-anchor="start">Recorded shark attack incidents by activity</text>
+<text x="80" y="788" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" dominant-baseline="hanging" text-anchor="start">Activities are assigned once using documented keyword precedence. Missing activities are shown as Unknown.</text>
+<text x="80" y="828" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="400" dominant-baseline="hanging" text-anchor="start">Source: Global Shark Attacks dataset, Kaggle. Visualization based on reported incidents.</text>
+<text x="80" y="177" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" dominant-baseline="hanging" text-anchor="start">Activity</text>
+<line x1="405" y1="225" x2="405" y2="705" stroke="#173746" stroke-width="1"/>
+<text x="405" y="722" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" dominant-baseline="hanging" text-anchor="middle">0</text>
+<line x1="614" y1="225" x2="614" y2="705" stroke="#173746" stroke-width="1"/>
+<text x="614" y="722" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" dominant-baseline="hanging" text-anchor="middle">400</text>
+<line x1="823" y1="225" x2="823" y2="705" stroke="#173746" stroke-width="1"/>
+<text x="823" y="722" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" dominant-baseline="hanging" text-anchor="middle">800</text>
+<line x1="1032" y1="225" x2="1032" y2="705" stroke="#173746" stroke-width="1"/>
+<text x="1032" y="722" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" dominant-baseline="hanging" text-anchor="middle">1,200</text>
+<line x1="1241" y1="225" x2="1241" y2="705" stroke="#173746" stroke-width="1"/>
+<text x="1241" y="722" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" dominant-baseline="hanging" text-anchor="middle">1,600</text>
+<line x1="1450" y1="225" x2="1450" y2="705" stroke="#173746" stroke-width="1"/>
+<text x="1450" y="722" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" dominant-baseline="hanging" text-anchor="middle">2,000</text>
+<text x="385" y="243" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="400" dominant-baseline="hanging" text-anchor="end">Surfing</text>
+<rect x="405" y="235.8" width="682.385" height="38.4" fill="#58b6c9"/>
+<text x="1099.385" y="243" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" dominant-baseline="hanging" text-anchor="start">1,306</text>
+<text x="385" y="303" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="400" dominant-baseline="hanging" text-anchor="end">Fishing</text>
+<rect x="405" y="295.8" width="600.875" height="38.4" fill="#58b6c9"/>
+<text x="1017.875" y="303" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" dominant-baseline="hanging" text-anchor="start">1,150</text>
+<text x="385" y="363" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="400" dominant-baseline="hanging" text-anchor="end">Swimming</text>
+<rect x="405" y="355.8" width="541.8325" height="38.4" fill="#58b6c9"/>
+<text x="958.8325" y="363" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" dominant-baseline="hanging" text-anchor="start">1,037</text>
+<text x="385" y="423" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="400" dominant-baseline="hanging" text-anchor="end">Boating / Watercraft</text>
+<rect x="405" y="415.8" width="306.185" height="38.4" fill="#58b6c9"/>
+<text x="723.185" y="423" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" dominant-baseline="hanging" text-anchor="start">586</text>
+<text x="385" y="483" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="400" dominant-baseline="hanging" text-anchor="end">Diving</text>
+<rect x="405" y="475.8" width="297.30249999999995" height="38.4" fill="#58b6c9"/>
+<text x="714.3025" y="483" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" dominant-baseline="hanging" text-anchor="start">569</text>
+<text x="385" y="543" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="400" dominant-baseline="hanging" text-anchor="end">Unknown</text>
+<rect x="405" y="535.8" width="270.65500000000003" height="38.4" fill="#8da4af"/>
+<text x="687.655" y="543" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" dominant-baseline="hanging" text-anchor="start">518</text>
+<text x="385" y="603" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="400" dominant-baseline="hanging" text-anchor="end">Shallow Water</text>
+<rect x="405" y="595.8" width="263.34" height="38.4" fill="#58b6c9"/>
+<text x="680.3399999999999" y="603" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" dominant-baseline="hanging" text-anchor="start">504</text>
+<text x="385" y="663" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="400" dominant-baseline="hanging" text-anchor="end">Other</text>
+<rect x="405" y="655.8" width="239.82750000000001" height="38.4" fill="#58b6c9"/>
+<text x="656.8275" y="663" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" dominant-baseline="hanging" text-anchor="start">459</text>
+<text x="927.5" y="754" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" dominant-baseline="hanging" text-anchor="middle">Recorded incidents</text>
+</svg>

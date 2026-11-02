@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-label="The Most Frequently Recorded Sharks Are Not Automatically the Most Fatal">
+<rect x="0" y="0" width="1600" height="900" fill="#031722"/>
+<text x="80" y="48" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="35" font-weight="700" dominant-baseline="hanging" text-anchor="start">The Most Frequently Recorded Sharks Are Not Automatically the Most Fatal</text>
+<text x="80" y="105" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="400" dominant-baseline="hanging" text-anchor="start">Fatality rate among incidents with a known outcome and identified species</text>
+<text x="80" y="788" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" dominant-baseline="hanging" text-anchor="start">Unknown fatality outcomes excluded; species categories require at least 30 known outcomes.</text>
+<text x="80" y="828" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="400" dominant-baseline="hanging" text-anchor="start">Source: Global Shark Attacks dataset, Kaggle. Visualization based on reported incidents.</text>
+<text x="80" y="177" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" dominant-baseline="hanging" text-anchor="start">Shark species/category</text>
+<line x1="405" y1="225" x2="405" y2="705" stroke="#173746" stroke-width="1"/>
+<text x="405" y="722" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" dominant-baseline="hanging" text-anchor="middle">0.0%</text>
+<line x1="614" y1="225" x2="614" y2="705" stroke="#173746" stroke-width="1"/>
+<text x="614" y="722" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" dominant-baseline="hanging" text-anchor="middle">6.0%</text>
+<line x1="823" y1="225" x2="823" y2="705" stroke="#173746" stroke-width="1"/>
+<text x="823" y="722" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" dominant-baseline="hanging" text-anchor="middle">12.0%</text>
+<line x1="1032" y1="225" x2="1032" y2="705" stroke="#173746" stroke-width="1"/>
+<text x="1032" y="722" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" dominant-baseline="hanging" text-anchor="middle">18.0%</text>
+<line x1="1241" y1="225" x2="1241" y2="705" stroke="#173746" stroke-width="1"/>
+<text x="1241" y="722" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" dominant-baseline="hanging" text-anchor="middle">24.0%</text>
+<line x1="1450" y1="225" x2="1450" y2="705" stroke="#173746" stroke-width="1"/>
+<text x="1450" y="722" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" dominant-baseline="hanging" text-anchor="middle">30.0%</text>
+<text x="385" y="247.28571428571428" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="400" dominant-baseline="hanging" text-anchor="end">Tiger Shark</text>
+<rect x="405" y="239.78571428571428" width="896.5541490857947" height="39" fill="#e58f78"/>
+<text x="1313.5541490857947" y="247.28571428571428" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" dominant-baseline="hanging" text-anchor="start">25.7% (n=237)</text>
+<text x="385" y="315.85714285714283" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="400" dominant-baseline="hanging" text-anchor="end">White Shark</text>
+<rect x="405" y="308.35714285714283" width="792.1962095875139" height="39" fill="#e58f78"/>
+<text x="1209.1962095875137" y="315.85714285714283" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" dominant-baseline="hanging" text-anchor="start">22.7% (n=598)</text>
+<text x="385" y="384.4285714285714" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="400" dominant-baseline="hanging" text-anchor="end">Bull Shark</text>
+<rect x="405" y="376.9285714285714" width="650.2222222222223" height="39" fill="#e58f78"/>
+<text x="1067.2222222222222" y="384.4285714285714" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" dominant-baseline="hanging" text-anchor="start">18.7% (n=150)</text>
+<text x="385" y="453" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="400" dominant-baseline="hanging" text-anchor="end">Other Species</text>
+<rect x="405" y="445.5" width="151.44927536231884" height="39" fill="#e58f78"/>
+<text x="568.4492753623189" y="453" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" dominant-baseline="hanging" text-anchor="start">4.3% (n=460)</text>
+<text x="385" y="521.5714285714286" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="400" dominant-baseline="hanging" text-anchor="end">Hammerhead Shark</text>
+<rect x="405" y="514.0714285714286" width="81.0077519379845" height="39" fill="#e58f78"/>
+<text x="498.0077519379845" y="521.5714285714286" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" dominant-baseline="hanging" text-anchor="start">2.3% (n=43)</text>
+<text x="385" y="590.1428571428572" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="400" dominant-baseline="hanging" text-anchor="end">Blacktip Shark</text>
+<rect x="405" y="582.6428571428572" width="0" height="39" fill="#e58f78"/>
+<text x="417" y="590.1428571428572" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" dominant-baseline="hanging" text-anchor="start">0.0% (n=63)</text>
+<text x="385" y="658.7142857142858" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="400" dominant-baseline="hanging" text-anchor="end">Nurse Shark</text>
+<rect x="405" y="651.2142857142858" width="0" height="39" fill="#e58f78"/>
+<text x="417" y="658.7142857142858" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" dominant-baseline="hanging" text-anchor="start">0.0% (n=55)</text>
+<text x="927.5" y="754" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" dominant-baseline="hanging" text-anchor="middle">Fatality rate (%)</text>
+</svg>

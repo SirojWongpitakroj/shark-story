@@ -1,0 +1,127 @@
+{
+  "source": "attacks.csv",
+  "sourceUrl": "https://www.kaggle.com/datasets/teajay/global-shark-attacks/data",
+  "sourceRows": 25723,
+  "cleanedRows": 6129,
+  "yearRange": [
+    1800,
+    2018
+  ],
+  "latestObservedDate": "2018-06-25",
+  "mapping": {
+    "case_number": {
+      "index": 0,
+      "rawHeader": "Case Number"
+    },
+    "date": {
+      "index": 1,
+      "rawHeader": "Date"
+    },
+    "year": {
+      "index": 2,
+      "rawHeader": "Year"
+    },
+    "type": {
+      "index": 3,
+      "rawHeader": "Type"
+    },
+    "country": {
+      "index": 4,
+      "rawHeader": "Country"
+    },
+    "area": {
+      "index": 5,
+      "rawHeader": "Area"
+    },
+    "location": {
+      "index": 6,
+      "rawHeader": "Location"
+    },
+    "activity": {
+      "index": 7,
+      "rawHeader": "Activity"
+    },
+    "name": {
+      "index": 8,
+      "rawHeader": "Name"
+    },
+    "sex": {
+      "index": 9,
+      "rawHeader": "Sex "
+    },
+    "age": {
+      "index": 10,
+      "rawHeader": "Age"
+    },
+    "injury": {
+      "index": 11,
+      "rawHeader": "Injury"
+    },
+    "fatal": {
+      "index": 12,
+      "rawHeader": "Fatal (Y/N)"
+    },
+    "time": {
+      "index": 13,
+      "rawHeader": "Time"
+    },
+    "species": {
+      "index": 14,
+      "rawHeader": "Species "
+    },
+    "investigator_or_source": {
+      "index": 15,
+      "rawHeader": "Investigator or Source"
+    }
+  },
+  "ignoredDuplicateColumns": [
+    {
+      "logical": "case_number",
+      "index": 19,
+      "rawHeader": "Case Number"
+    },
+    {
+      "logical": "case_number",
+      "index": 20,
+      "rawHeader": "Case Number"
+    }
+  ],
+  "exclusions": {
+    "empty": 17020,
+    "invalidYear": 2574,
+    "noIncidentDetails": 0,
+    "exactDuplicate": 0
+  },
+  "fatalOutcomes": {
+    "fatal": 1303,
+    "nonfatal": 4229,
+    "unknown": 597,
+    "known": 5532,
+    "rate": 23.553868402024584
+  },
+  "ageSummary": [
+    {
+      "status": "Age Available",
+      "records": 3361,
+      "share_pct": 54.837657040300215
+    },
+    {
+      "status": "Age Missing/Unusable",
+      "records": 2768,
+      "share_pct": 45.162342959699785
+    }
+  ],
+  "activityPrecedence": [
+    "Boating / Watercraft",
+    "Fishing",
+    "Surfing",
+    "Diving",
+    "Shallow Water",
+    "Swimming",
+    "Other",
+    "Unknown"
+  ],
+  "fatalityRateMinimumKnownOutcomes": 30,
+  "decadeMinimumKnownOutcomes": 20,
+  "typeMinimumRecords": 30
+}

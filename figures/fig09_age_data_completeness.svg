@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-label="A Large Share of Records Do Not Contain Usable Age Information">
+<rect x="0" y="0" width="1600" height="900" fill="#031722"/>
+<text x="80" y="48" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="38" font-weight="700" dominant-baseline="hanging" text-anchor="start">A Large Share of Records Do Not Contain Usable Age Information</text>
+<text x="80" y="105" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="400" dominant-baseline="hanging" text-anchor="start">Completeness of the victim age field</text>
+<text x="80" y="788" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" dominant-baseline="hanging" text-anchor="start">Numeric ages, simple ranges, and approximate numeric ages count as available; vague descriptions do not.</text>
+<text x="80" y="828" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="400" dominant-baseline="hanging" text-anchor="start">Source: Global Shark Attacks dataset, Kaggle. Visualization based on reported incidents.</text>
+<text x="80" y="177" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" dominant-baseline="hanging" text-anchor="start">Records</text>
+<text x="231" y="410" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="400" dominant-baseline="hanging" text-anchor="end">All recorded incidents</text>
+<rect x="255" y="370" width="655.3100016315875" height="120" fill="#58b6c9"/>
+<rect x="910.3100016315875" y="370" width="539.6899983684125" height="120" fill="#8da4af"/>
+<text x="582.6550008157938" y="405" fill="#031722" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="700" dominant-baseline="hanging" text-anchor="middle">Age available: 54.8%</text>
+<text x="1180.1550008157938" y="405" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="23" font-weight="700" dominant-baseline="hanging" text-anchor="middle">Age missing: 45.2%</text>
+<text x="582.6550008157938" y="438" fill="#031722" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="400" dominant-baseline="hanging" text-anchor="middle">n=3,361</text>
+<text x="1180.1550008157938" y="438" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="400" dominant-baseline="hanging" text-anchor="middle">n=2,768</text>
+<line x1="255" y1="490" x2="255" y2="499" stroke="#a8bec8" stroke-width="1.2"/>
+<text x="255" y="513" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" dominant-baseline="hanging" text-anchor="middle">0%</text>
+<line x1="494" y1="490" x2="494" y2="499" stroke="#a8bec8" stroke-width="1.2"/>
+<text x="494" y="513" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" dominant-baseline="hanging" text-anchor="middle">20%</text>
+<line x1="733" y1="490" x2="733" y2="499" stroke="#a8bec8" stroke-width="1.2"/>
+<text x="733" y="513" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" dominant-baseline="hanging" text-anchor="middle">40%</text>
+<line x1="972" y1="490" x2="972" y2="499" stroke="#a8bec8" stroke-width="1.2"/>
+<text x="972" y="513" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" dominant-baseline="hanging" text-anchor="middle">60%</text>
+<line x1="1211" y1="490" x2="1211" y2="499" stroke="#a8bec8" stroke-width="1.2"/>
+<text x="1211" y="513" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" dominant-baseline="hanging" text-anchor="middle">80%</text>
+<line x1="1450" y1="490" x2="1450" y2="499" stroke="#a8bec8" stroke-width="1.2"/>
+<text x="1450" y="513" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" dominant-baseline="hanging" text-anchor="middle">100%</text>
+<text x="852.5" y="566" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" dominant-baseline="hanging" text-anchor="middle">Percentage of incidents</text>
+</svg>

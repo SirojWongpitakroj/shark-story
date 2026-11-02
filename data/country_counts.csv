@@ -1,0 +1,187 @@
+country,recorded_incidents,fatal,nonfatal,unknown,known,rate
+United States,2205,178,1823,204,2001,8.895552223888055
+Australia,1318,274,912,132,1186,23.102866779089375
+South Africa,571,99,406,66,505,19.603960396039604
+Papua New Guinea,130,54,72,4,126,42.857142857142854
+New Zealand,127,23,91,13,114,20.17543859649123
+Brazil,112,38,64,10,102,37.254901960784316
+Bahamas,106,10,91,5,101,9.900990099009901
+Mexico,89,43,35,11,78,55.12820512820513
+Italy,67,11,39,17,50,22
+Fiji,62,22,38,2,60,36.666666666666664
+Philippines,62,36,21,5,57,63.1578947368421
+Réunion,58,28,30,0,58,48.275862068965516
+New Caledonia,53,18,34,1,52,34.61538461538461
+Cuba,44,23,16,5,39,58.97435897435897
+Mozambique,43,19,19,5,38,50
+Spain,42,7,25,10,32,21.875
+Egypt,40,12,23,5,35,34.285714285714285
+Unknown / Unspecified,40,18,17,5,35,51.42857142857143
+United Kingdom,39,4,32,3,36,11.11111111111111
+India,35,20,12,3,32,62.5
+Croatia,34,15,10,9,25,60
+Japan,34,12,16,6,28,42.857142857142854
+Panama,29,15,13,1,28,53.57142857142857
+Solomon Islands,28,12,15,1,27,44.44444444444444
+Iran,25,10,15,0,25,40
+Jamaica,25,12,10,3,22,54.54545454545455
+French Polynesia,24,2,20,2,22,9.090909090909092
+Hong Kong,24,17,7,0,24,70.83333333333333
+Indonesia,22,14,7,1,21,66.66666666666667
+Greece,19,10,4,5,14,71.42857142857143
+Pacific Ocean,18,7,10,1,17,41.1764705882353
+Tonga,18,6,11,1,17,35.294117647058826
+Atlantic Ocean,17,8,7,2,15,53.333333333333336
+Costa Rica,17,8,7,2,15,53.333333333333336
+Sri Lanka,16,5,9,2,14,35.714285714285715
+Bermuda,14,1,10,3,11,9.090909090909092
+Vietnam,13,2,11,0,13,15.384615384615385
+Marshall Islands,12,2,8,2,10,20
+South Atlantic Ocean,12,4,8,0,12,33.333333333333336
+Turkey,12,3,7,2,10,30
+Vanuatu,12,8,3,1,11,72.72727272727273
+Canada,11,3,7,1,10,30
+Senegal,11,3,6,2,9,33.333333333333336
+Mauritius,10,4,6,0,10,40
+New Guinea,10,6,4,0,10,60
+Columbia,9,2,7,0,9,22.22222222222222
+Ecuador,9,0,9,0,9,0
+France,9,2,6,1,8,25
+Sierra Leone,9,5,4,0,9,55.55555555555556
+Taiwan,9,3,6,0,9,33.333333333333336
+Venezuela,9,3,6,0,9,33.333333333333336
+Yemen,9,7,1,1,8,87.5
+Caribbean Sea,8,5,2,1,7,71.42857142857143
+Chile,8,4,4,0,8,50
+Indian Ocean,8,4,2,2,6,66.66666666666667
+Iraq,8,2,6,0,8,25
+Kenya,8,5,3,0,8,62.5
+Samoa,8,1,7,0,8,12.5
+South Korea,8,6,2,0,8,75
+Tanzania,8,5,2,1,7,71.42857142857143
+Thailand,8,3,4,1,7,42.857142857142854
+China,7,3,3,1,6,50
+Dominican Republic,7,4,2,1,6,66.66666666666667
+Israel,7,0,5,2,5,0
+Madagascar,7,3,3,1,6,50
+Seychelles,7,4,2,1,6,66.66666666666667
+New Britain,6,4,2,0,6,66.66666666666667
+Nicaragua,6,4,2,0,6,66.66666666666667
+North Pacific Ocean,6,2,3,1,5,40
+Okinawa,6,4,2,0,6,66.66666666666667
+Somalia,6,4,1,1,5,80
+Azores,5,0,4,1,4,0
+Libya,5,2,3,0,5,40
+Malaysia,5,0,4,1,4,0
+Malta,5,3,2,0,5,60
+Mid Atlantic Ocean,5,2,3,0,5,40
+North Atlantic Ocean,5,0,4,1,4,0
+Palau,5,0,5,0,5,0
+Singapore,5,4,1,0,5,80
+Turks & Caicos,5,2,3,0,5,40
+El Salvador,4,2,2,0,4,50
+Grenada,4,3,1,0,4,75
+Guam,4,1,2,1,3,33.333333333333336
+Honduras,4,3,0,1,3,100
+Kiribati,4,3,1,0,4,75
+Nigeria,4,3,1,0,4,75
+Persian Gulf,4,1,3,0,4,25
+Russia,4,0,4,0,4,0
+American Samoa,3,3,0,0,3,100
+Barbados,3,2,1,0,3,66.66666666666667
+Cape Verde,3,1,0,2,1,100
+Guyana,3,1,1,1,2,50
+Haiti,3,1,1,1,2,50
+Liberia,3,2,0,1,2,100
+Micronesia,3,0,3,0,3,0
+Montenegro,3,1,1,1,2,50
+Portugal,3,2,1,0,3,66.66666666666667
+Sudan,3,1,2,0,3,33.333333333333336
+Trinidad & Tobago,3,0,2,1,2,0
+Tunisia,3,1,1,1,2,50
+Antigua,2,0,0,2,0,
+Belize,2,0,1,1,1,0
+Cayman Islands,2,0,0,2,0,
+Central Pacific,2,1,1,0,2,50
+Crete,2,1,0,1,1,100
+Johnston Island,2,0,1,1,1,0
+Lebanon,2,2,0,0,2,100
+Martinique,2,0,2,0,2,0
+Myanmar,2,2,0,0,2,100
+Namibia,2,1,1,0,2,50
+Norway,2,0,1,1,1,0
+Saudi Arabia,2,0,1,1,1,0
+South Pacific Ocean,2,2,0,0,2,100
+Southwest Pacific Ocean,2,1,1,0,2,50
+"St Helena, British Overseas Territory",2,0,2,0,2,0
+Tobago,2,1,1,0,2,50
+United Arab Emirates,2,0,2,0,2,0
+United Arab Emirates (Uae),2,0,1,1,1,0
+Uruguay,2,1,1,0,2,50
+West Indies,2,2,0,0,2,100
+Admiralty Islands,1,0,1,0,1,0
+Africa,1,1,0,0,1,100
+Algeria,1,1,0,0,1,100
+Andaman / Nicobar Islandas,1,1,0,0,1,100
+Andaman Islands,1,1,0,0,1,100
+Angola,1,0,1,0,1,0
+Argentina,1,0,1,0,1,0
+Aruba,1,1,0,0,1,100
+Bangladesh,1,1,0,0,1,100
+Bay Of Bengal,1,1,0,0,1,100
+British Isles,1,0,1,0,1,0
+British New Guinea,1,0,1,0,1,0
+British Virgin Islands,1,0,0,1,0,
+British West Indies,1,0,1,0,1,0
+Coast Of Africa,1,1,0,0,1,100
+Comoros,1,0,0,1,0,
+Cook Islands,1,1,0,0,1,100
+Curacao,1,0,1,0,1,0
+Cyprus,1,1,0,0,1,100
+Diego Garcia,1,1,0,0,1,100
+Egypt / Israel,1,0,1,0,1,0
+Equatorial Guinea / Cameroon,1,1,0,0,1,100
+Falkland Islands,1,0,1,0,1,0
+Federated States Of Micronesia,1,0,1,0,1,0
+Gabon,1,1,0,0,1,100
+Georgia,1,0,1,0,1,0
+Ghana,1,1,0,0,1,100
+Grand Cayman,1,0,1,0,1,0
+Guatemala,1,0,0,1,0,
+Guinea,1,1,0,0,1,100
+Gulf Of Aden,1,1,0,0,1,100
+Iceland,1,0,1,0,1,0
+Iran / Iraq,1,0,1,0,1,0
+Ireland,1,1,0,0,1,100
+Italy / Croatia,1,0,0,1,0,
+Java,1,1,0,0,1,100
+Kuwait,1,0,1,0,1,0
+Maldive Islands,1,1,0,0,1,100
+Maldives,1,0,1,0,1,0
+Mayotte,1,1,0,0,1,100
+Mid-Pacifc Ocean,1,0,1,0,1,0
+Monaco,1,1,0,0,1,100
+Netherlands Antilles,1,0,1,0,1,0
+Nevis,1,0,0,1,0,
+North Sea,1,0,1,0,1,0
+Northern Arabian Sea,1,0,1,0,1,0
+Northern Mariana Islands,1,0,1,0,1,0
+Ocean,1,0,1,0,1,0
+Palestinian Territories,1,0,1,0,1,0
+Paraguay,1,1,0,0,1,100
+Peru,1,1,0,0,1,100
+Puerto Rico,1,0,1,0,1,0
+Red Sea,1,0,1,0,1,0
+Red Sea / Indian Ocean,1,1,0,0,1,100
+Reunion Island,1,1,0,0,1,100
+San Domingo,1,1,0,0,1,100
+Slovenia,1,0,1,0,1,0
+Solomon Islands / Vanuatu,1,1,0,0,1,100
+South China Sea,1,0,1,0,1,0
+St. Maartin,1,0,1,0,1,0
+St. Martin,1,0,1,0,1,0
+Syria,1,0,0,1,0,
+Tasman Sea,1,0,1,0,1,0
+The Balkans,1,1,0,0,1,100
+Tuvalu,1,1,0,0,1,100
+Western Samoa,1,1,0,0,1,100

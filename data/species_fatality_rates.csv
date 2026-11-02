@@ -1,0 +1,9 @@
+species,recorded_incidents,fatal,nonfatal,unknown,known,rate,eligible
+White Shark,608,136,462,10,598,22.74247491638796,true
+Tiger Shark,241,61,176,4,237,25.738396624472575,true
+Bull Shark,150,28,122,0,150,18.666666666666668,true
+Blacktip Shark,63,0,63,0,63,0,true
+Nurse Shark,55,0,55,0,55,0,true
+Hammerhead Shark,43,1,42,0,43,2.3255813953488373,true
+Other Species,468,20,440,8,460,4.3478260869565215,true
+Unknown Species,4501,1057,2869,575,3926,26.923076923076923,true

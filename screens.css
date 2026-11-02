@@ -1,0 +1,66 @@
+/* Every stop occupies exactly one viewport. Overflow stays inside that panel. */
+html.story-paged{scroll-snap-type:y mandatory;scroll-padding:0;scroll-behavior:auto}
+html.story-paged.is-travelling{scroll-snap-type:none}
+.story-paged main{margin:0;padding:0}
+.story-screen{box-sizing:border-box;height:100vh;height:100dvh;min-height:0;margin:0;padding:32px 40px;scroll-snap-align:start;scroll-snap-stop:always;display:flex;align-items:center;justify-content:center;overflow:hidden;position:relative;isolation:isolate}
+.screen-content{box-sizing:border-box;width:100%;max-height:100%;min-height:0;overflow-x:hidden;overflow-y:auto;overscroll-behavior:contain;scrollbar-width:thin;scrollbar-color:#355565 transparent;padding:4px 8px}
+.screen-content:focus-visible{outline:1px solid var(--accent);outline-offset:-1px}
+.screen-content>.chapter-heading,.screen-content>.narrow,.screen-content>.after-chart,.screen-content>.answer,.screen-content>.statement,.screen-content>.bridge,.screen-content>.findings{margin:0 auto;padding:0;width:min(760px,100%)}
+.screen-content>.after-chart,.screen-content>.answer{font-size:clamp(23px,3vw,40px);line-height:1.4}
+.screen-content>.statement{font-size:clamp(32px,4.4vw,62px)}
+.screen-content>.bridge{font-size:clamp(26px,3.5vw,44px)}
+.screen-content>.story-figure{margin:0 auto;padding:0;width:min(1180px,100%,calc((100dvh - 150px)*1.777778))}
+.screen-content>.interactive-map{width:min(1100px,100%)}
+.screen-content>.story-figure figcaption{padding:12px 0}
+.screen-content>.story-figure img{object-fit:contain}
+.screen-content>.reveal{opacity:1;transform:none}
+.screen-pause .screen-content{text-align:center}
+.screen-pause .screen-content>.narrow{width:min(850px,100%)}
+.screen-pause .screen-content>p{font-size:clamp(28px,4vw,52px);line-height:1.3;letter-spacing:-.025em;max-width:850px;margin:0 auto}
+.screen-content>.reveal:not(.narrow):not(.chapter-heading):not(.story-figure):not(.findings){max-width:850px;margin:0 auto}
+.screen-final{text-align:center;background:radial-gradient(ellipse at 50% 110%,#12415240,transparent 70%)}
+.screen-final h2{max-width:850px;margin:0 auto;font-size:clamp(32px,4.8vw,65px)}
+.screen-final p{max-width:720px;margin:0 auto;font-size:clamp(21px,2.5vw,32px);line-height:1.5;color:var(--muted)}
+.screen-final .closing-line{color:var(--accent)}
+.screen-final h2 .muted{font-size:.72em;display:inline-block;margin:12px 0}
+.screen-content>.findings li{padding:24px 0}
+.screen-footer footer{padding:25px 0;margin:0 auto;max-width:1200px;border:0;background:transparent}
+.screen-footer .footer-bottom{margin-top:50px}
+.screen-hero{padding:0}
+.screen-hero>.screen-content{padding:0;height:100%;overflow:hidden}
+.story-paged .hero{height:100%;min-height:0;padding:70px 24px 100px}
+.story-paged .hero-content{max-height:100%;overflow:auto;scrollbar-width:thin}
+.story-paged .hero h1{font-size:clamp(3rem,min(8.5vw,12dvh),8rem)}
+.story-paged .hero h1>span:first-child{margin-bottom:24px}
+.story-paged .dive-link{margin-top:30px}
+.story-paged .hero-bottom{bottom:24px}
+@media(max-width:700px){.story-screen{padding:24px 20px}.screen-content{padding:3px 0}.screen-content>.story-figure{width:100%}.screen-hero{padding:0}.story-paged .hero{padding:60px 24px 80px}.story-paged .hero h1{font-size:clamp(2.8rem,min(13vw,11dvh),4.8rem)}.screen-footer .footer-top{gap:25px}.screen-footer .footer-bottom{margin-top:30px}.screen-content>.interactive-map{padding-right:6px}.screen-pause h2 br{display:none}}
+/* Supporting copy shares its related idea; only complete panels snap. */
+.screen-grouped>.screen-content{display:flex;flex-direction:column;gap:clamp(18px,3dvh,30px)}
+.screen-grouped>.screen-content>*{flex-shrink:0}
+.screen-grouped .screen-content>.panel-support{width:min(760px,100%);max-width:760px;margin:0 auto;padding:0;font-size:clamp(17px,1.7vw,22px);line-height:1.45;letter-spacing:normal;color:var(--muted);display:block}
+.screen-grouped .panel-support h2,.screen-grouped .panel-support h3{font:inherit;line-height:1.4;letter-spacing:normal;margin:0;color:var(--text)}
+.screen-grouped .panel-support p{font:inherit;margin:0}
+.screen-grouped .panel-support p+p{margin-top:10px}
+.screen-grouped .panel-support .eyebrow{font-size:10px;letter-spacing:.18em;margin-bottom:10px}
+.screen-grouped .panel-support br{display:none}
+.screen-figure.screen-grouped .screen-content>.story-figure{width:min(1180px,100%,max(280px,calc((100dvh - 280px)*1.777778)))}
+.screen-figure.screen-grouped .screen-content>.interactive-map{width:min(1100px,100%)}
+.screen-reversal .screen-content{width:min(850px,100%);margin:auto}
+.screen-reversal .screen-content>p{display:flex;justify-content:space-between;font-size:clamp(44px,8vw,100px);line-height:1.2;letter-spacing:-.05em;margin:0;border-bottom:1px solid var(--line);padding-bottom:20px}
+.screen-reversal p:first-child span{color:var(--accent)}
+.screen-reversal p:last-child span{color:#e58f78}
+.screen-grouped .screen-content>.findings li{padding:14px 0}
+.screen-grouped .findings p{font-size:clamp(23px,3vw,36px);margin-top:6px}
+.screen-final.screen-grouped h2{font-size:clamp(28px,4vw,52px)}
+.screen-final.screen-grouped p{font-size:clamp(17px,1.7vw,22px);line-height:1.45}
+.screen-final.screen-grouped .closing-line{font-size:clamp(22px,2.5vw,32px)}
+.screen-resources .screen-content{max-width:1100px;gap:30px}
+.screen-resources .screen-content>.narrow{width:100%;max-width:850px;font-size:16px;color:var(--muted)}
+.screen-resources .screen-content>.narrow h2{font-size:28px;color:var(--text)}
+.screen-resources .screen-content>.narrow p{margin:12px 0}
+.screen-resources footer{width:100%;padding:20px 0 0;border-top:1px solid var(--line);background:none}
+.screen-resources .footer-top{gap:30px}
+.screen-resources .footer-top h2{font-size:26px}
+.screen-resources .footer-bottom{margin-top:24px}
+@media(max-width:700px){.screen-figure.screen-grouped .screen-content>.story-figure{width:100%}.screen-grouped>.screen-content{gap:20px}.screen-grouped .panel-support{font-size:17px}.screen-resources .source-links a{font-size:14px;padding:12px 0}}

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-label="Frequent Activities Are Not Necessarily the Most Fatal">
+<rect x="0" y="0" width="1600" height="900" fill="#031722"/>
+<text x="80" y="48" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="38" font-weight="700" dominant-baseline="hanging" text-anchor="start">Frequent Activities Are Not Necessarily the Most Fatal</text>
+<text x="80" y="105" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="400" dominant-baseline="hanging" text-anchor="start">Fatal outcomes as a percentage of incidents with known outcomes</text>
+<text x="80" y="788" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" dominant-baseline="hanging" text-anchor="start">Unknown fatality outcomes excluded; only activities with at least 30 known outcomes shown.</text>
+<text x="80" y="828" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="400" dominant-baseline="hanging" text-anchor="start">Source: Global Shark Attacks dataset, Kaggle. Visualization based on reported incidents.</text>
+<text x="80" y="177" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" dominant-baseline="hanging" text-anchor="start">Activity</text>
+<line x1="405" y1="225" x2="405" y2="705" stroke="#173746" stroke-width="1"/>
+<text x="405" y="722" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" dominant-baseline="hanging" text-anchor="middle">0.0%</text>
+<line x1="614" y1="225" x2="614" y2="705" stroke="#173746" stroke-width="1"/>
+<text x="614" y="722" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" dominant-baseline="hanging" text-anchor="middle">10.0%</text>
+<line x1="823" y1="225" x2="823" y2="705" stroke="#173746" stroke-width="1"/>
+<text x="823" y="722" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" dominant-baseline="hanging" text-anchor="middle">20.0%</text>
+<line x1="1032" y1="225" x2="1032" y2="705" stroke="#173746" stroke-width="1"/>
+<text x="1032" y="722" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" dominant-baseline="hanging" text-anchor="middle">30.0%</text>
+<line x1="1241" y1="225" x2="1241" y2="705" stroke="#173746" stroke-width="1"/>
+<text x="1241" y="722" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" dominant-baseline="hanging" text-anchor="middle">40.0%</text>
+<line x1="1450" y1="225" x2="1450" y2="705" stroke="#173746" stroke-width="1"/>
+<text x="1450" y="722" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" dominant-baseline="hanging" text-anchor="middle">50.0%</text>
+<text x="385" y="243" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="400" dominant-baseline="hanging" text-anchor="end">Boating / Watercraft</text>
+<rect x="405" y="235.8" width="871.1663479923518" height="38.4" fill="#e58f78"/>
+<text x="1288.1663479923518" y="243" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" dominant-baseline="hanging" text-anchor="start">41.7% (n=523)</text>
+<text x="385" y="303" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="400" dominant-baseline="hanging" text-anchor="end">Other</text>
+<rect x="405" y="295.8" width="817.6039119804401" height="38.4" fill="#e58f78"/>
+<text x="1234.60391198044" y="303" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" dominant-baseline="hanging" text-anchor="start">39.1% (n=409)</text>
+<text x="385" y="363" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="400" dominant-baseline="hanging" text-anchor="end">Swimming</text>
+<rect x="405" y="355.8" width="791.0537634408603" height="38.4" fill="#e58f78"/>
+<text x="1208.0537634408602" y="363" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" dominant-baseline="hanging" text-anchor="start">37.8% (n=930)</text>
+<text x="385" y="423" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="400" dominant-baseline="hanging" text-anchor="end">Shallow Water</text>
+<rect x="405" y="415.8" width="552.3255813953489" height="38.4" fill="#e58f78"/>
+<text x="969.3255813953489" y="423" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" dominant-baseline="hanging" text-anchor="start">26.4% (n=473)</text>
+<text x="385" y="483" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="400" dominant-baseline="hanging" text-anchor="end">Unknown</text>
+<rect x="405" y="475.8" width="525.3867403314918" height="38.4" fill="#8da4af"/>
+<text x="942.3867403314918" y="483" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" dominant-baseline="hanging" text-anchor="start">25.1% (n=362)</text>
+<text x="385" y="543" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="400" dominant-baseline="hanging" text-anchor="end">Diving</text>
+<rect x="405" y="535.8" width="505.049115913556" height="38.4" fill="#e58f78"/>
+<text x="922.0491159135561" y="543" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" dominant-baseline="hanging" text-anchor="start">24.2% (n=509)</text>
+<text x="385" y="603" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="400" dominant-baseline="hanging" text-anchor="end">Fishing</text>
+<rect x="405" y="595.8" width="279.96279069767445" height="38.4" fill="#e58f78"/>
+<text x="696.9627906976744" y="603" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" dominant-baseline="hanging" text-anchor="start">13.4% (n=1,075)</text>
+<text x="385" y="663" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="400" dominant-baseline="hanging" text-anchor="end">Surfing</text>
+<rect x="405" y="655.8" width="150.35971223021582" height="38.4" fill="#e58f78"/>
+<text x="567.3597122302158" y="663" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" dominant-baseline="hanging" text-anchor="start">7.2% (n=1,251)</text>
+<text x="927.5" y="754" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" dominant-baseline="hanging" text-anchor="middle">Fatality rate (%)</text>
+</svg>

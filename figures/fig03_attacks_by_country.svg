@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-label="Where Have Shark Attacks Been Recorded?">
+<rect x="0" y="0" width="1600" height="900" fill="#031722"/>
+<text x="80" y="48" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="700" dominant-baseline="hanging" text-anchor="start">Where Have Shark Attacks Been Recorded?</text>
+<text x="80" y="105" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="400" dominant-baseline="hanging" text-anchor="start">Number of recorded incidents by country</text>
+<text x="80" y="788" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" dominant-baseline="hanging" text-anchor="start">Incident counts do not measure individual risk; ocean exposure differs between countries. Unknown countries excluded.</text>
+<text x="80" y="828" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="400" dominant-baseline="hanging" text-anchor="start">Source: Global Shark Attacks dataset, Kaggle. Visualization based on reported incidents.</text>
+<text x="80" y="177" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" dominant-baseline="hanging" text-anchor="start">Country</text>
+<line x1="405" y1="225" x2="405" y2="705" stroke="#173746" stroke-width="1"/>
+<text x="405" y="722" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" dominant-baseline="hanging" text-anchor="middle">0</text>
+<line x1="614" y1="225" x2="614" y2="705" stroke="#173746" stroke-width="1"/>
+<text x="614" y="722" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" dominant-baseline="hanging" text-anchor="middle">600</text>
+<line x1="823" y1="225" x2="823" y2="705" stroke="#173746" stroke-width="1"/>
+<text x="823" y="722" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" dominant-baseline="hanging" text-anchor="middle">1,200</text>
+<line x1="1032" y1="225" x2="1032" y2="705" stroke="#173746" stroke-width="1"/>
+<text x="1032" y="722" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" dominant-baseline="hanging" text-anchor="middle">1,800</text>
+<line x1="1241" y1="225" x2="1241" y2="705" stroke="#173746" stroke-width="1"/>
+<text x="1241" y="722" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" dominant-baseline="hanging" text-anchor="middle">2,400</text>
+<line x1="1450" y1="225" x2="1450" y2="705" stroke="#173746" stroke-width="1"/>
+<text x="1450" y="722" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" dominant-baseline="hanging" text-anchor="middle">3,000</text>
+<text x="385" y="229" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="400" dominant-baseline="hanging" text-anchor="end">United States</text>
+<rect x="405" y="230.76" width="768.0749999999999" height="20.48" fill="#58b6c9"/>
+<text x="1185.0749999999998" y="229" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" dominant-baseline="hanging" text-anchor="start">2,205</text>
+<text x="385" y="261" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="400" dominant-baseline="hanging" text-anchor="end">Australia</text>
+<rect x="405" y="262.76" width="459.10333333333335" height="20.48" fill="#58b6c9"/>
+<text x="876.1033333333334" y="261" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" dominant-baseline="hanging" text-anchor="start">1,318</text>
+<text x="385" y="293" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="400" dominant-baseline="hanging" text-anchor="end">South Africa</text>
+<rect x="405" y="294.76" width="198.8983333333333" height="20.48" fill="#58b6c9"/>
+<text x="615.8983333333333" y="293" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" dominant-baseline="hanging" text-anchor="start">571</text>
+<text x="385" y="325" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="400" dominant-baseline="hanging" text-anchor="end">Papua New Guinea</text>
+<rect x="405" y="326.76" width="45.28333333333333" height="20.48" fill="#58b6c9"/>
+<text x="462.2833333333333" y="325" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" dominant-baseline="hanging" text-anchor="start">130</text>
+<text x="385" y="357" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="400" dominant-baseline="hanging" text-anchor="end">New Zealand</text>
+<rect x="405" y="358.76" width="44.23833333333334" height="20.48" fill="#58b6c9"/>
+<text x="461.23833333333334" y="357" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" dominant-baseline="hanging" text-anchor="start">127</text>
+<text x="385" y="389" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="400" dominant-baseline="hanging" text-anchor="end">Brazil</text>
+<rect x="405" y="390.76" width="39.013333333333335" height="20.48" fill="#58b6c9"/>
+<text x="456.0133333333333" y="389" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" dominant-baseline="hanging" text-anchor="start">112</text>
+<text x="385" y="421" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="400" dominant-baseline="hanging" text-anchor="end">Bahamas</text>
+<rect x="405" y="422.76" width="36.92333333333333" height="20.48" fill="#58b6c9"/>
+<text x="453.92333333333335" y="421" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" dominant-baseline="hanging" text-anchor="start">106</text>
+<text x="385" y="453" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="400" dominant-baseline="hanging" text-anchor="end">Mexico</text>
+<rect x="405" y="454.76" width="31.00166666666667" height="20.48" fill="#58b6c9"/>
+<text x="448.00166666666667" y="453" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" dominant-baseline="hanging" text-anchor="start">89</text>
+<text x="385" y="485" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="400" dominant-baseline="hanging" text-anchor="end">Italy</text>
+<rect x="405" y="486.76" width="23.338333333333335" height="20.48" fill="#58b6c9"/>
+<text x="440.3383333333333" y="485" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" dominant-baseline="hanging" text-anchor="start">67</text>
+<text x="385" y="517" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="400" dominant-baseline="hanging" text-anchor="end">Fiji</text>
+<rect x="405" y="518.76" width="21.596666666666668" height="20.48" fill="#58b6c9"/>
+<text x="438.5966666666667" y="517" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" dominant-baseline="hanging" text-anchor="start">62</text>
+<text x="385" y="549" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="400" dominant-baseline="hanging" text-anchor="end">Philippines</text>
+<rect x="405" y="550.76" width="21.596666666666668" height="20.48" fill="#58b6c9"/>
+<text x="438.5966666666667" y="549" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" dominant-baseline="hanging" text-anchor="start">62</text>
+<text x="385" y="581" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="400" dominant-baseline="hanging" text-anchor="end">Réunion</text>
+<rect x="405" y="582.76" width="20.203333333333333" height="20.48" fill="#58b6c9"/>
+<text x="437.2033333333333" y="581" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" dominant-baseline="hanging" text-anchor="start">58</text>
+<text x="385" y="613" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="400" dominant-baseline="hanging" text-anchor="end">New Caledonia</text>
+<rect x="405" y="614.76" width="18.461666666666666" height="20.48" fill="#58b6c9"/>
+<text x="435.46166666666664" y="613" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" dominant-baseline="hanging" text-anchor="start">53</text>
+<text x="385" y="645" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="400" dominant-baseline="hanging" text-anchor="end">Cuba</text>
+<rect x="405" y="646.76" width="15.326666666666666" height="20.48" fill="#58b6c9"/>
+<text x="432.32666666666665" y="645" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" dominant-baseline="hanging" text-anchor="start">44</text>
+<text x="385" y="677" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="400" dominant-baseline="hanging" text-anchor="end">Mozambique</text>
+<rect x="405" y="678.76" width="14.978333333333333" height="20.48" fill="#58b6c9"/>
+<text x="431.97833333333335" y="677" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" dominant-baseline="hanging" text-anchor="start">43</text>
+<text x="927.5" y="754" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" dominant-baseline="hanging" text-anchor="middle">Recorded incidents</text>
+</svg>

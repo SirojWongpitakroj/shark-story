@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-label="Incidents With an Unidentified Shark Show a Different Outcome Pattern">
+<rect x="0" y="0" width="1600" height="900" fill="#031722"/>
+<text x="80" y="48" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="35" font-weight="700" dominant-baseline="hanging" text-anchor="start">Incidents With an Unidentified Shark Show a Different Outcome Pattern</text>
+<text x="80" y="105" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="400" dominant-baseline="hanging" text-anchor="start">Fatality rate when the shark species was identified versus unidentified</text>
+<text x="80" y="788" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" dominant-baseline="hanging" text-anchor="start">Unknown fatality outcomes excluded. The association may reflect how incidents were documented; cause is unproven.</text>
+<text x="80" y="828" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="400" dominant-baseline="hanging" text-anchor="start">Source: Global Shark Attacks dataset, Kaggle. Visualization based on reported incidents.</text>
+<line x1="185" y1="705" x2="1450" y2="705" stroke="#173746" stroke-width="1"/>
+<text x="167" y="694" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" dominant-baseline="hanging" text-anchor="end">0.0%</text>
+<line x1="185" y1="608" x2="1450" y2="608" stroke="#173746" stroke-width="1"/>
+<text x="167" y="597" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" dominant-baseline="hanging" text-anchor="end">8.0%</text>
+<line x1="185" y1="511" x2="1450" y2="511" stroke="#173746" stroke-width="1"/>
+<text x="167" y="500" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" dominant-baseline="hanging" text-anchor="end">16.0%</text>
+<line x1="185" y1="414" x2="1450" y2="414" stroke="#173746" stroke-width="1"/>
+<text x="167" y="403" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" dominant-baseline="hanging" text-anchor="end">24.0%</text>
+<line x1="185" y1="317" x2="1450" y2="317" stroke="#173746" stroke-width="1"/>
+<text x="167" y="306" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" dominant-baseline="hanging" text-anchor="end">32.0%</text>
+<line x1="185" y1="220" x2="1450" y2="220" stroke="#173746" stroke-width="1"/>
+<text x="167" y="209" fill="#a8bec8" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="400" dominant-baseline="hanging" text-anchor="end">40.0%</text>
+<text x="185" y="177" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" dominant-baseline="hanging" text-anchor="start">Fatality rate (%)</text>
+<rect x="415" y="519.274595267746" width="240" height="185.72540473225405" fill="#58b6c9"/>
+<text x="535" y="483.274595267746" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" dominant-baseline="hanging" text-anchor="middle">15.3% (n=1,606)</text>
+<text x="535" y="725" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="400" dominant-baseline="hanging" text-anchor="middle">Identified species</text>
+<rect x="970" y="378.55769230769226" width="240" height="326.44230769230774" fill="#8da4af"/>
+<text x="1090" y="342.55769230769226" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" dominant-baseline="hanging" text-anchor="middle">26.9% (n=3,926)</text>
+<text x="1090" y="725" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="400" dominant-baseline="hanging" text-anchor="middle">Unknown species</text>
+<text x="817.5" y="764" fill="#f2f7f8" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" dominant-baseline="hanging" text-anchor="middle">Species identification status</text>
+</svg>
