@@ -1,0 +1,14 @@
+{
+  "name": "shark-story",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Shark Attacks: Perception vs Reality",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "build": "node build-story.js",
+    "preview": "node preview.mjs",
+    "test": "node check-data.js && node check-site.js && node check-panels.js && node check-map.js && node check-map-controls.js && node check-scroll.js"
+  }
+}
