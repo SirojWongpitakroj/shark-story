@@ -1,66 +1,25 @@
-/* Every stop occupies exactly one viewport. Overflow stays inside that panel. */
-html.story-paged{scroll-snap-type:y mandatory;scroll-padding:0;scroll-behavior:auto}
-html.story-paged.is-travelling{scroll-snap-type:none}
-.story-paged main{margin:0;padding:0}
-.story-screen{box-sizing:border-box;height:100vh;height:100dvh;min-height:0;margin:0;padding:32px 40px;scroll-snap-align:start;scroll-snap-stop:always;display:flex;align-items:center;justify-content:center;overflow:hidden;position:relative;isolation:isolate}
-.screen-content{box-sizing:border-box;width:100%;max-height:100%;min-height:0;overflow-x:hidden;overflow-y:auto;overscroll-behavior:contain;scrollbar-width:thin;scrollbar-color:#355565 transparent;padding:4px 8px}
-.screen-content:focus-visible{outline:1px solid var(--accent);outline-offset:-1px}
-.screen-content>.chapter-heading,.screen-content>.narrow,.screen-content>.after-chart,.screen-content>.answer,.screen-content>.statement,.screen-content>.bridge,.screen-content>.findings{margin:0 auto;padding:0;width:min(760px,100%)}
-.screen-content>.after-chart,.screen-content>.answer{font-size:clamp(23px,3vw,40px);line-height:1.4}
-.screen-content>.statement{font-size:clamp(32px,4.4vw,62px)}
-.screen-content>.bridge{font-size:clamp(26px,3.5vw,44px)}
-.screen-content>.story-figure{margin:0 auto;padding:0;width:min(1180px,100%,calc((100dvh - 150px)*1.777778))}
-.screen-content>.interactive-map{width:min(1100px,100%)}
-.screen-content>.story-figure figcaption{padding:12px 0}
-.screen-content>.story-figure img{object-fit:contain}
-.screen-content>.reveal{opacity:1;transform:none}
-.screen-pause .screen-content{text-align:center}
-.screen-pause .screen-content>.narrow{width:min(850px,100%)}
-.screen-pause .screen-content>p{font-size:clamp(28px,4vw,52px);line-height:1.3;letter-spacing:-.025em;max-width:850px;margin:0 auto}
-.screen-content>.reveal:not(.narrow):not(.chapter-heading):not(.story-figure):not(.findings){max-width:850px;margin:0 auto}
-.screen-final{text-align:center;background:radial-gradient(ellipse at 50% 110%,#12415240,transparent 70%)}
-.screen-final h2{max-width:850px;margin:0 auto;font-size:clamp(32px,4.8vw,65px)}
-.screen-final p{max-width:720px;margin:0 auto;font-size:clamp(21px,2.5vw,32px);line-height:1.5;color:var(--muted)}
-.screen-final .closing-line{color:var(--accent)}
-.screen-final h2 .muted{font-size:.72em;display:inline-block;margin:12px 0}
-.screen-content>.findings li{padding:24px 0}
-.screen-footer footer{padding:25px 0;margin:0 auto;max-width:1200px;border:0;background:transparent}
-.screen-footer .footer-bottom{margin-top:50px}
-.screen-hero{padding:0}
-.screen-hero>.screen-content{padding:0;height:100%;overflow:hidden}
-.story-paged .hero{height:100%;min-height:0;padding:70px 24px 100px}
-.story-paged .hero-content{max-height:100%;overflow:auto;scrollbar-width:thin}
-.story-paged .hero h1{font-size:clamp(3rem,min(8.5vw,12dvh),8rem)}
-.story-paged .hero h1>span:first-child{margin-bottom:24px}
-.story-paged .dive-link{margin-top:30px}
-.story-paged .hero-bottom{bottom:24px}
-@media(max-width:700px){.story-screen{padding:24px 20px}.screen-content{padding:3px 0}.screen-content>.story-figure{width:100%}.screen-hero{padding:0}.story-paged .hero{padding:60px 24px 80px}.story-paged .hero h1{font-size:clamp(2.8rem,min(13vw,11dvh),4.8rem)}.screen-footer .footer-top{gap:25px}.screen-footer .footer-bottom{margin-top:30px}.screen-content>.interactive-map{padding-right:6px}.screen-pause h2 br{display:none}}
-/* Supporting copy shares its related idea; only complete panels snap. */
-.screen-grouped>.screen-content{display:flex;flex-direction:column;gap:clamp(18px,3dvh,30px)}
-.screen-grouped>.screen-content>*{flex-shrink:0}
-.screen-grouped .screen-content>.panel-support{width:min(760px,100%);max-width:760px;margin:0 auto;padding:0;font-size:clamp(17px,1.7vw,22px);line-height:1.45;letter-spacing:normal;color:var(--muted);display:block}
-.screen-grouped .panel-support h2,.screen-grouped .panel-support h3{font:inherit;line-height:1.4;letter-spacing:normal;margin:0;color:var(--text)}
-.screen-grouped .panel-support p{font:inherit;margin:0}
-.screen-grouped .panel-support p+p{margin-top:10px}
-.screen-grouped .panel-support .eyebrow{font-size:10px;letter-spacing:.18em;margin-bottom:10px}
-.screen-grouped .panel-support br{display:none}
-.screen-figure.screen-grouped .screen-content>.story-figure{width:min(1180px,100%,max(280px,calc((100dvh - 280px)*1.777778)))}
-.screen-figure.screen-grouped .screen-content>.interactive-map{width:min(1100px,100%)}
-.screen-reversal .screen-content{width:min(850px,100%);margin:auto}
-.screen-reversal .screen-content>p{display:flex;justify-content:space-between;font-size:clamp(44px,8vw,100px);line-height:1.2;letter-spacing:-.05em;margin:0;border-bottom:1px solid var(--line);padding-bottom:20px}
-.screen-reversal p:first-child span{color:var(--accent)}
-.screen-reversal p:last-child span{color:#e58f78}
-.screen-grouped .screen-content>.findings li{padding:14px 0}
-.screen-grouped .findings p{font-size:clamp(23px,3vw,36px);margin-top:6px}
-.screen-final.screen-grouped h2{font-size:clamp(28px,4vw,52px)}
-.screen-final.screen-grouped p{font-size:clamp(17px,1.7vw,22px);line-height:1.45}
-.screen-final.screen-grouped .closing-line{font-size:clamp(22px,2.5vw,32px)}
-.screen-resources .screen-content{max-width:1100px;gap:30px}
-.screen-resources .screen-content>.narrow{width:100%;max-width:850px;font-size:16px;color:var(--muted)}
-.screen-resources .screen-content>.narrow h2{font-size:28px;color:var(--text)}
-.screen-resources .screen-content>.narrow p{margin:12px 0}
-.screen-resources footer{width:100%;padding:20px 0 0;border-top:1px solid var(--line);background:none}
-.screen-resources .footer-top{gap:30px}
-.screen-resources .footer-top h2{font-size:26px}
-.screen-resources .footer-bottom{margin-top:24px}
-@media(max-width:700px){.screen-figure.screen-grouped .screen-content>.story-figure{width:100%}.screen-grouped>.screen-content{gap:20px}.screen-grouped .panel-support{font-size:17px}.screen-resources .source-links a{font-size:14px;padding:12px 0}}
+/* Every settled page is one complete viewport. No neighboring content or nested scroll. */
+html{scroll-behavior:auto;scroll-snap-type:y mandatory;scroll-padding:0;scrollbar-gutter:stable}
+html.is-travelling{scroll-snap-type:none}
+.story-chapter,.data-sources,main{margin:0;padding:0;border:0}
+.story-page{box-sizing:border-box;height:100vh;height:100dvh;min-height:0;width:100%;margin:0;padding:clamp(24px,4dvh,40px) 4vw 76px;display:flex;align-items:center;justify-content:center;overflow:hidden;scroll-snap-align:start;scroll-snap-stop:always;scroll-margin:0;position:relative}
+.page-content{box-sizing:border-box;width:100%;max-height:100%;min-height:0;overflow:hidden;padding:4px 8px}
+.page-figure .page-content{height:100%;display:flex;align-items:center;justify-content:center}
+.page-figure .viz,.page-figure .interactive-map{max-width:100%;max-height:100%}
+.chapter-lead{font-size:clamp(18px,1.8vw,22px);line-height:1.55;color:var(--muted);margin:0 0 26px}
+.page-context .statement-content h2{font-size:clamp(2rem,min(4.7vw,6.5dvh),4rem)}
+.page-context .explanation{font-size:clamp(18px,1.6vw,21px);margin-top:24px}
+.page-twist .statement-content>h2:first-child{font-size:clamp(26px,3.2vw,42px);color:var(--muted)}
+.page-twist .twist-answer{margin-top:30px;font-size:clamp(2.8rem,min(7vw,10dvh),6rem)}
+.page-closing h2{color:var(--accent)}
+.viz{width:min(1300px,92vw);height:min(76dvh,780px);margin:0;display:flex;flex-direction:column;gap:22px}
+.viz-title{font-size:clamp(22px,2.7vw,36px);font-weight:450;letter-spacing:-.025em;line-height:1.25;text-align:center;margin:0;flex-shrink:0}
+.chart-area{flex:1;min-height:0;width:100%}.chart-svg{width:100%;height:100%;display:block;overflow:hidden;font-family:Inter,"Segoe UI",Arial,sans-serif}.chart-mobile{display:none}
+.chart-svg text{fill:var(--muted);font-size:19px}.chart-svg .label{fill:var(--text);font-size:22px}.chart-svg .value{fill:var(--text);font-size:22px;font-variant-numeric:tabular-nums}.chart-grid{stroke:#36505f;stroke-opacity:.5;stroke-width:1}
+.comparison-content{width:min(1000px,100%);margin:auto}.comparison-content>h2{font-size:clamp(30px,4vw,52px);font-weight:480;letter-spacing:-.035em;margin:0 0 36px}
+.comparison-pair{width:min(750px,100%)}.comparison-pair h3{font-size:clamp(28px,4vw,48px);font-weight:450;letter-spacing:-.035em;margin:0 0 18px}.comparison-reality h3{color:var(--accent)}.comparison-pair p{font-size:clamp(18px,1.8vw,24px);line-height:1.55;color:var(--muted);margin:0}
+.resource-content .source-links{margin-top:24px}.project-credit{font-size:13px!important;margin-top:24px}.return-link{font-size:13px}
+body:has(dialog[open]){overflow:hidden}
+@media(max-width:600px) and (orientation:portrait){.chart-wide{display:none}.chart-mobile{display:block}.chart-svg text{font-size:13px}.chart-svg .label,.chart-svg .value{font-size:15px}.viz{height:76dvh;gap:18px}}
+@media(max-width:600px){.story-page{padding:24px 6vw 76px}.page-content{padding:4px 2px}.statement-content h2{font-size:clamp(2.2rem,9.7vw,3.5rem)}.page-context .statement-content h2{font-size:clamp(1.8rem,8vw,3rem)}.page-twist .statement-content>h2:first-child{font-size:clamp(24px,6.5vw,30px)}.page-twist .twist-answer{font-size:clamp(2.6rem,11vw,4rem)}.chapter-lead{font-size:18px;margin-bottom:20px}.comparison-pair{grid-template-columns:1fr;gap:28px}.comparison-content>h2{margin-bottom:26px}.comparison-pair h3{font-size:28px;margin-bottom:10px}.comparison-pair p{font-size:18px}.viz{width:100%}}
+@media(max-height:560px){.story-page{padding-top:16px;padding-bottom:62px}.statement-content h2{font-size:clamp(1.6rem,6.8dvh,3.6rem)}.page-context .statement-content h2{font-size:clamp(1.5rem,5.8dvh,2.5rem)}.chapter-lead{font-size:15px;line-height:1.4;margin-bottom:16px}.explanation,.page-context .explanation{font-size:16px;line-height:1.45;margin-top:16px}.eyebrow{margin-bottom:14px}.page-twist .statement-content>h2:first-child{font-size:clamp(20px,5dvh,28px)}.page-twist .twist-answer{font-size:clamp(2rem,9dvh,3.5rem);margin-top:20px}.hero h1{font-size:clamp(2rem,12dvh,4rem);margin-bottom:14px}.hero .eyebrow{margin-bottom:14px}.hero-subtitle{font-size:16px}.dive-link{margin-top:16px}.hero-meta{margin-top:14px;font-size:10px}.viz{height:76dvh;gap:12px}.viz-title{font-size:20px}.resource-content h2{font-size:25px;margin-bottom:14px}.resource-content p,.method-list{font-size:14px;line-height:1.4}.method-list{gap:12px}.source-links{font-size:13px;gap:10px}.asset-list{font-size:13px;gap:10px}.resource-content .source-links{margin-top:16px}.comparison-content>h2{font-size:25px;margin-bottom:20px}.comparison-pair{gap:20px}.comparison-pair h3{font-size:24px}.comparison-pair p{font-size:16px}}
